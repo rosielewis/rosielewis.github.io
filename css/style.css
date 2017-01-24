@@ -52,12 +52,10 @@ p.vimeo a {
 
 h1 {
     float: left;
-    border: 1px solid red;
-}
+    }
 
 div.social {
     float: right;
-    border: 1px solid red;
 }
 
 div.social a {
